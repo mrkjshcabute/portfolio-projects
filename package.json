@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "json-server --watch db.json --port 8000"
+  },
+  "keywords": [
+    "json-server",
+    "api",
+    "mock"
+  ],
+  "author": "Mark Josuah J. Cabute",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

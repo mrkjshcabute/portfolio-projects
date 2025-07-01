@@ -1,0 +1,208 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Dental Care System",
+      "desktop": "/images/dental-desktop.svg",
+      "mobile": "/images/dental-mobile.svg",
+      "tools": [
+        { "name": "HTML", "icon": "html" },
+        { "name": "CSS", "icon": "css" },
+        { "name": "JavaScript", "icon": "js" },
+        { "name": "Materialize", "icon": "materialize" }
+        ],
+      "details": "A web-based platform designed to modernize traditional dental clinic appointments by transitioning them to an online environment, streamlining the booking process for both patients and clinic staff. I contributed to this project by implementing essential features such as admin login and search functionalities.",
+      "features": [
+        "Online Appointment Booking: Allows patients to conveniently schedule, reschedule, or cancel dental appointments through the system.",
+        "User Authentication: Secure login functionality for clinic staff to access personalized features and data.",
+        "Appointment Management: Dentists and staff can view, approve, or manage appointments in real time."
+      ],
+      "github": "",
+      "live": "https://dentalcaresystem.netlify.app/"
+    },
+    {
+      "id": 2,
+      "name": "RDCHIME Inventory System",
+      "desktop": "/images/rdchime-desktop.svg",
+      "mobile": "/images/rdchime-mobile.svg",
+      "tools": [
+        { "name": "React JS", "icon": "react" },
+        { "name": "ShadCN UI", "icon": "shadcn" },
+        { "name": "MongoDB", "icon": "mongodb" },
+        { "name": "Express", "icon": "express" }
+        ],
+      "details": "An inventory management system developed for RDCHIME to efficiently monitor, track, and organize items. I served as the lead frontend developer, building and refining the user interface to ensure a smooth and user-friendly experience.",
+      "features": [
+        "Dashboard: Provides an overview of system metrics and inventory status.",
+        "Item Management: Enables users to add, update, and categorize inventory items.",
+        "User Management: Allows administrators to create, update, or remove user accounts, assign roles, and manage access permissions.",
+        "History Logs: Tracks changes and activities for accountability and auditing."
+      ],
+      "github": "",
+      "live": "https://rdchime-inventory.vercel.app/login"
+    },
+    {
+      "id": 3,
+      "name": "JFlix",
+      "desktop": "/images/jflix-desktop.svg",
+      "mobile": "/images/jflix-mobile.svg",
+      "tools": [
+        { "name": "React", "icon": "react" },
+        { "name": "Tailwind CSS", "icon": "tailwind" },
+        { "name": "Flowbite React", "icon": "flowbite" },
+        { "name": "TMDB API", "icon": "tmdb" },
+        { "name": "AppWrite", "icon": "appWrite" }
+        ],
+      "details": "JFlix is a sleek and responsive movie web app that helps users discover movies effortlessly. Powered by The Movie Database (TMDB), JFlix displays trending titles, upcoming films, and a full searchable catalog. Users can even watch trailers directly on the platform.",
+      "features": [
+        "Coming Soon: Browse upcoming movies with release dates and previews",
+        "Trending Movies: See what’s popular right now",
+        "All Movies: Explore a full catalog of films from TMDB",
+        "Search: Find movies by title in real time",
+        "Watch Trailers: Instantly play trailers for any movie"
+      ],
+      "github": "https://github.com/mrkjshcabute/jflix",
+      "live": "https://jflix-sigma.vercel.app/"
+    },
+    {
+      "id": 4,
+      "name": "Joshionary",
+      "desktop": "/images/joshionary-desktop.svg",
+      "mobile": "/images/joshionary-mobile.svg",
+      "tools": [
+        { "name": "Vue JS", "icon": "vue" },
+        { "name": "PrimeVue", "icon": "primevue" },
+        { "name": "Free Dictionary API", "icon": "dictionary" }
+        ],
+      "details": "Joshionary is a sleek and functional dictionary web app that lets you explore English words with ease. Whether you're searching for definitions, learning pronunciation, or checking out the word of the day — Joshionary has you covered. Built using Free Dictionary API.",
+      "features": [
+        "Search Word: Instantly find definitions, parts of speech, and examples.",
+        "Word of the Day: Discover a new word each day to expand your vocabulary.",
+        "Phonetics: View the correct phonetic transcription of the word.",
+        "Audio Pronunciation: Hear how the word is properly pronounced."
+      ],
+      "github": "https://github.com/mrkjshcabute/joshionary",
+      "live": "https://joshionary.vercel.app/"
+    },
+    {
+      "id": 5,
+      "name": "Josh Weather Experience",
+      "desktop": "/images/jwx-desktop.svg",
+      "mobile": "/images/jwx-mobile.svg",
+      "tools": [
+        { "name": "React JS", "icon": "react" },
+        { "name": "Tailwind CSS", "icon": "tailwind" },
+        { "name": "OpenWeatherMap API", "icon": "openweathermap" }
+        ],
+      "details": "JWX is a modern and minimal weather web app that lets users check real-time weather conditions and forecasts for any city. Designed for simplicity and clarity, JWX gives users the weather information they need at a glance. Built with OpenWeatherMap API.",
+      "features": [
+        "Search City: Get current weather data by entering any city name",
+        "Humidity: Displays current humidity levels",
+        "Wind: Shows wind speed",
+        "Precipitation: Displays rainfall data",
+        "Visibility: Provides visibility range in kilometers",
+        "5-Day Forecast: Shows upcoming daily weather overview"
+      ],
+      "github": "https://github.com/mrkjshcabute/jwx",
+      "live": "https://jwx-swart.vercel.app/"
+    },
+    {
+      "id": 6,
+      "name": "Chrono Task",
+      "desktop": "/images/chrono-task-desktop.svg",
+      "mobile": "/images/chrono-task-mobile.svg",
+      "tools": [
+        { "name": "React JS", "icon": "react" },
+        { "name": "Tailwind CSS", "icon": "tailwind" },
+        { "name": "Material UI", "icon": "material" }
+        ],
+      "details": "Chrono-Task is a minimalist and efficient task timer web app. It helps users stay focused and productive by letting them set custom tasks and durations, with an alarm notification when time is up.",
+      "features": [
+        "Write Task Name: Input and label your current task",
+        "Set Custom Duration: Define how long the task should take",
+        "Alarm Notification: Get alerted with an alarm when your time is up"
+      ],
+      "github": "https://github.com/mrkjshcabute/chrono-task",
+      "live": "https://chrono-task-two.vercel.app/"
+    },
+    {
+      "id": 7,
+      "name": "Rock Paper Scissors",
+      "desktop": "/images/rps-desktop.svg",
+      "mobile": "/images/rps-mobile.svg",
+      "tools": [
+        { "name": "Vue JS", "icon": "vue" },
+        { "name": "PrimeVue", "icon": "primevue" },
+        { "name": "Vite", "icon": "vite" }
+        ],
+      "details": "A sleek and fun Rock-Paper-Scissors game built with Vue 3 and PrimeVue. Challenge the computer, track your score, and enjoy a smooth animated experience.",
+      "features": [
+        "Instant play with real-time results",
+        "Computer-generated choices",
+        "Score tracking"
+      ],
+      "github": "https://github.com/mrkjshcabute/rock-paper-scissors",
+      "live": "https://rock-paper-scissors-six-steel.vercel.app/"
+    },
+    {
+      "id": 8,
+      "name": "Folklore Blooms",
+      "desktop": "/images/fb-desktop.svg",
+      "mobile": "/images/fb-mobile.svg",
+      "tools": [
+        { "name": "HTML", "icon": "html" },
+        { "name": "CSS", "icon": "css" }
+        ],
+      "details": "Folklore Blooms is a visually rich landing page that showcases my HTML and CSS skills through thoughtful layout, responsive design, and elegant styling. Inspired by natural elements and soft aesthetic tones, this project is a front-end demonstration of how structure and style come together to create a smooth user experience.",
+      "features": [
+        "Clean and semantic HTML structure",
+        "Custom CSS styling with a soft, folklore-inspired theme",
+        "Responsive layout across devices",
+        "Smooth Transitions"
+      ],
+      "github": "https://github.com/mrkjshcabute/folklore-blooms",
+      "live": "https://folklore-blooms.vercel.app/"
+    },
+    {
+      "id": 9,
+      "name": "MERSUAH Calculator",
+      "desktop": "/images/calculator-desktop.svg",
+      "mobile": "/images/calculator-mobile.svg",
+      "tools": [
+        { "name": "HTML", "icon": "html" },
+        { "name": "CSS", "icon": "css" },
+         { "name": "JavaScript", "icon": "javascript" }
+        ],
+      "details": "MERSUAH Calculator is a simple yet elegant web-based calculator built with pure HTML, CSS, and JavaScript—no frameworks, no libraries. It features a clean interface, smooth interactions, and a built-in Dark Mode toggle for user comfort.",
+      "features": [
+        "Basic arithmetic operations: addition, subtraction, multiplication, division",
+        "Responsive and accessible UI",
+        "Dark Mode switch for low-light environments"
+      ],
+      "github": "https://github.com/mrkjshcabute/calculator",
+      "live": "https://calculator-eight-kohl-53.vercel.app/"
+    },
+    {
+      "id": 10,
+      "name": "Face Recognition",
+      "desktop": "/images/fr-desktop.svg",
+      "mobile": "/images/fr-mobile.svg",
+      "tools": [
+        { "name": "Python", "icon": "python" },
+        { "name": "OpenCV (cv2)", "icon": "opencv" },
+        { "name": "NumPy", "icon": "numpy" },
+        { "name": "Spyder IDE (Anaconda)", "icon": "spyder" }
+        ],
+      "details": "A face recognition system built with Python that identifies known individuals from a folder of stored images and labels unknown faces. This project was developed and tested using the Spyder IDE.",
+      "features": [
+        "Face detection and recognition using OpenCV and face-recognition libraries",
+        "Displays name and confidence score (e.g., 87.5%)",
+        "Marks unrecognized faces as Unknown",
+        "Supports multiple images per person for better accuracy",
+        "Built and tested in Spyder (Anaconda Environment)"
+      ],
+      "github": "https://github.com/mrkjshcabute/face-recognition",
+      "live": ""
+    }
+  ]
+}
