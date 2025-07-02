@@ -3,13 +3,14 @@
     {
       "id": 1,
       "name": "Dental Care System",
+      "year": "2023",
       "desktop": "/images/dental-desktop.svg",
       "mobile": "/images/dental-mobile.svg",
       "tools": [
-        { "name": "HTML", "icon": "html" },
-        { "name": "CSS", "icon": "css" },
-        { "name": "JavaScript", "icon": "js" },
-        { "name": "Materialize", "icon": "materialize" }
+        { "name": "HTML", "icon": "/icons/html.svg" },
+        { "name": "CSS", "icon": "/icons/css.svg" },
+        { "name": "JavaScript", "icon": "/icons/js.svg" },
+        { "name": "Materialize", "icon": "/icons/materialize.svg" }
         ],
       "details": "A web-based platform designed to modernize traditional dental clinic appointments by transitioning them to an online environment, streamlining the booking process for both patients and clinic staff. I contributed to this project by implementing essential features such as admin login and search functionalities.",
       "features": [
@@ -23,13 +24,16 @@
     {
       "id": 2,
       "name": "RDCHIME Inventory System",
+      "year": "2024",
       "desktop": "/images/rdchime-desktop.svg",
       "mobile": "/images/rdchime-mobile.svg",
       "tools": [
-        { "name": "React JS", "icon": "react" },
-        { "name": "ShadCN UI", "icon": "shadcn" },
-        { "name": "MongoDB", "icon": "mongodb" },
-        { "name": "Express", "icon": "express" }
+        { "name": "React JS", "icon": "/icons/react.svg" },
+        { "name": "Vite", "icon": "/icons/vite.svg" },
+        { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
+        { "name": "ShadCN UI", "icon": "/icons/shadcn.svg" },
+        { "name": "MongoDB", "icon": "/icons/mongodb.svg" },
+        { "name": "Express", "icon": "/icons/express.svg" }
         ],
       "details": "An inventory management system developed for RDCHIME to efficiently monitor, track, and organize items. I served as the lead frontend developer, building and refining the user interface to ensure a smooth and user-friendly experience.",
       "features": [
@@ -44,14 +48,16 @@
     {
       "id": 3,
       "name": "JFlix",
+      "year": "2025",
       "desktop": "/images/jflix-desktop.svg",
       "mobile": "/images/jflix-mobile.svg",
       "tools": [
-        { "name": "React", "icon": "react" },
-        { "name": "Tailwind CSS", "icon": "tailwind" },
-        { "name": "Flowbite React", "icon": "flowbite" },
-        { "name": "TMDB API", "icon": "tmdb" },
-        { "name": "AppWrite", "icon": "appWrite" }
+        { "name": "React", "icon": "/icons/react.svg" },
+        { "name": "Vite", "icon": "/icons/vite.svg" },
+        { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
+        { "name": "Flowbite React", "icon": "/icons/flowbite.svg" },
+        { "name": "TMDB API", "icon": "/icons/tmdb.svg" },
+        { "name": "AppWrite", "icon": "/icons/appwrite.svg" }
         ],
       "details": "JFlix is a sleek and responsive movie web app that helps users discover movies effortlessly. Powered by The Movie Database (TMDB), JFlix displays trending titles, upcoming films, and a full searchable catalog. Users can even watch trailers directly on the platform.",
       "features": [
@@ -67,12 +73,15 @@
     {
       "id": 4,
       "name": "Joshionary",
+      "year": "2025",
       "desktop": "/images/joshionary-desktop.svg",
       "mobile": "/images/joshionary-mobile.svg",
       "tools": [
-        { "name": "Vue JS", "icon": "vue" },
-        { "name": "PrimeVue", "icon": "primevue" },
-        { "name": "Free Dictionary API", "icon": "dictionary" }
+        { "name": "Vue JS", "icon": "/icons/vue.svg" },
+        { "name": "Vite", "icon": "/icons/vite.svg" },
+        { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
+        { "name": "PrimeVue", "icon": "/icons/primevue.svg" },
+        { "name": "Free Dictionary API", "icon": "/icons/dictionary.svg" }
         ],
       "details": "Joshionary is a sleek and functional dictionary web app that lets you explore English words with ease. Whether you're searching for definitions, learning pronunciation, or checking out the word of the day — Joshionary has you covered. Built using Free Dictionary API.",
       "features": [
@@ -87,12 +96,14 @@
     {
       "id": 5,
       "name": "Josh Weather Experience",
+      "year": "2025",
       "desktop": "/images/jwx-desktop.svg",
       "mobile": "/images/jwx-mobile.svg",
       "tools": [
-        { "name": "React JS", "icon": "react" },
-        { "name": "Tailwind CSS", "icon": "tailwind" },
-        { "name": "OpenWeatherMap API", "icon": "openweathermap" }
+        { "name": "React JS", "icon": "/icons/react.svg" },
+        { "name": "Vite", "icon": "/icons/vite.svg" },
+        { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
+        { "name": "OpenWeatherMap API", "icon": "/icons/weather.svg" }
         ],
       "details": "JWX is a modern and minimal weather web app that lets users check real-time weather conditions and forecasts for any city. Designed for simplicity and clarity, JWX gives users the weather information they need at a glance. Built with OpenWeatherMap API.",
       "features": [
@@ -109,12 +120,14 @@
     {
       "id": 6,
       "name": "Chrono Task",
+      "year": "2025",
       "desktop": "/images/chrono-task-desktop.svg",
       "mobile": "/images/chrono-task-mobile.svg",
       "tools": [
-        { "name": "React JS", "icon": "react" },
-        { "name": "Tailwind CSS", "icon": "tailwind" },
-        { "name": "Material UI", "icon": "material" }
+        { "name": "React JS", "icon": "/icons/react.svg" },
+        { "name": "Vite", "icon": "/icons/vite.svg" },
+        { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
+        { "name": "Material UI", "icon": "/icons/mui.svg" }
         ],
       "details": "Chrono-Task is a minimalist and efficient task timer web app. It helps users stay focused and productive by letting them set custom tasks and durations, with an alarm notification when time is up.",
       "features": [
@@ -128,12 +141,14 @@
     {
       "id": 7,
       "name": "Rock Paper Scissors",
+      "year": "2025",
       "desktop": "/images/rps-desktop.svg",
       "mobile": "/images/rps-mobile.svg",
       "tools": [
-        { "name": "Vue JS", "icon": "vue" },
-        { "name": "PrimeVue", "icon": "primevue" },
-        { "name": "Vite", "icon": "vite" }
+        { "name": "Vue JS", "icon": "/icons/vue.svg" },
+        { "name": "Vite", "icon": "/icons/vite.svg" },
+        { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
+        { "name": "PrimeVue", "icon": "/icons/primevue.svg" }
         ],
       "details": "A sleek and fun Rock-Paper-Scissors game built with Vue 3 and PrimeVue. Challenge the computer, track your score, and enjoy a smooth animated experience.",
       "features": [
@@ -147,11 +162,12 @@
     {
       "id": 8,
       "name": "Folklore Blooms",
+      "year": "2023",
       "desktop": "/images/fb-desktop.svg",
       "mobile": "/images/fb-mobile.svg",
       "tools": [
-        { "name": "HTML", "icon": "html" },
-        { "name": "CSS", "icon": "css" }
+        { "name": "HTML", "icon": "/icons/html.svg" },
+        { "name": "CSS", "icon": "/icons/css.svg" }
         ],
       "details": "Folklore Blooms is a visually rich landing page that showcases my HTML and CSS skills through thoughtful layout, responsive design, and elegant styling. Inspired by natural elements and soft aesthetic tones, this project is a front-end demonstration of how structure and style come together to create a smooth user experience.",
       "features": [
@@ -166,12 +182,13 @@
     {
       "id": 9,
       "name": "MERSUAH Calculator",
+      "year": "2022",
       "desktop": "/images/calculator-desktop.svg",
       "mobile": "/images/calculator-mobile.svg",
       "tools": [
-        { "name": "HTML", "icon": "html" },
-        { "name": "CSS", "icon": "css" },
-         { "name": "JavaScript", "icon": "javascript" }
+        { "name": "HTML", "icon": "/icons/html.svg" },
+        { "name": "CSS", "icon": "/icons/css.svg" },
+         { "name": "JavaScript", "icon": "/icons/js.svg" }
         ],
       "details": "MERSUAH Calculator is a simple yet elegant web-based calculator built with pure HTML, CSS, and JavaScript—no frameworks, no libraries. It features a clean interface, smooth interactions, and a built-in Dark Mode toggle for user comfort.",
       "features": [
@@ -185,13 +202,14 @@
     {
       "id": 10,
       "name": "Face Recognition",
+      "year": "2024",
       "desktop": "/images/fr-desktop.svg",
       "mobile": "/images/fr-mobile.svg",
       "tools": [
-        { "name": "Python", "icon": "python" },
-        { "name": "OpenCV (cv2)", "icon": "opencv" },
-        { "name": "NumPy", "icon": "numpy" },
-        { "name": "Spyder IDE (Anaconda)", "icon": "spyder" }
+        { "name": "Python", "icon": "/icons/python.svg" },
+        { "name": "OpenCV (cv2)", "icon": "/icons/opencv.svg" },
+        { "name": "NumPy", "icon": "/icons/numpy.svg" },
+        { "name": "Spyder IDE (Anaconda)", "icon": "/icons/spyder.svg" }
         ],
       "details": "A face recognition system built with Python that identifies known individuals from a folder of stored images and labels unknown faces. This project was developed and tested using the Spyder IDE.",
       "features": [
