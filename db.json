@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Dental Care System",
       "year": "2023",
+      "display": "/display/dental.svg",
       "desktop": "/images/dental-desktop.svg",
       "mobile": "/images/dental-mobile.svg",
       "tools": [
@@ -25,6 +26,7 @@
       "id": 2,
       "name": "RDCHIME Inventory System",
       "year": "2024",
+      "display": "/display/rdchime.svg",
       "desktop": "/images/rdchime-desktop.svg",
       "mobile": "/images/rdchime-mobile.svg",
       "tools": [
@@ -49,6 +51,7 @@
       "id": 3,
       "name": "JFlix",
       "year": "2025",
+      "display": "/display/jflix.svg",
       "desktop": "/images/jflix-desktop.svg",
       "mobile": "/images/jflix-mobile.svg",
       "tools": [
@@ -74,6 +77,7 @@
       "id": 4,
       "name": "Joshionary",
       "year": "2025",
+      "display": "/display/joshionary.svg",
       "desktop": "/images/joshionary-desktop.svg",
       "mobile": "/images/joshionary-mobile.svg",
       "tools": [
@@ -97,6 +101,7 @@
       "id": 5,
       "name": "Josh Weather Experience",
       "year": "2025",
+      "display": "/display/jwx.svg",
       "desktop": "/images/jwx-desktop.svg",
       "mobile": "/images/jwx-mobile.svg",
       "tools": [
@@ -121,6 +126,7 @@
       "id": 6,
       "name": "Chrono Task",
       "year": "2025",
+      "display": "/display/chrono-task.svg",
       "desktop": "/images/chrono-task-desktop.svg",
       "mobile": "/images/chrono-task-mobile.svg",
       "tools": [
@@ -142,6 +148,7 @@
       "id": 7,
       "name": "Rock Paper Scissors",
       "year": "2025",
+      "display": "/display/rps.svg",
       "desktop": "/images/rps-desktop.svg",
       "mobile": "/images/rps-mobile.svg",
       "tools": [
@@ -163,6 +170,7 @@
       "id": 8,
       "name": "Folklore Blooms",
       "year": "2023",
+      "display": "/display/fb.svg",
       "desktop": "/images/fb-desktop.svg",
       "mobile": "/images/fb-mobile.svg",
       "tools": [
@@ -183,6 +191,7 @@
       "id": 9,
       "name": "MERSUAH Calculator",
       "year": "2022",
+      "display": "/display/calculator.svg",
       "desktop": "/images/calculator-desktop.svg",
       "mobile": "/images/calculator-mobile.svg",
       "tools": [
@@ -203,6 +212,7 @@
       "id": 10,
       "name": "Face Recognition",
       "year": "2024",
+      "display": "/display/fr.svg",
       "desktop": "/images/fr-desktop.svg",
       "mobile": "/images/fr-mobile.svg",
       "tools": [
