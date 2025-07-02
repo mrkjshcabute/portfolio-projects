@@ -7,7 +7,7 @@
       "desktop": "/images/dental-desktop.svg",
       "mobile": "/images/dental-mobile.svg",
       "tools": [
-        { "name": "HTML", "icon": "/images/html.svg" },
+        { "name": "HTML", "icon": "/icons/html.svg" },
         { "name": "CSS", "icon": "/icons/css.svg" },
         { "name": "JavaScript", "icon": "/icons/js.svg" },
         { "name": "Materialize", "icon": "/icons/materialize.svg" }
