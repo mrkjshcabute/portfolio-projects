@@ -12,7 +12,8 @@
         { "name": "CSS", "icon": "/icons/css.svg" },
         { "name": "JavaScript", "icon": "/icons/js.svg" },
         { "name": "Materialize", "icon": "/icons/materialize.svg" }
-        ],
+      ],
+      "toolNames": ["HTML", "CSS", "JavaScript", "Materialize"],
       "details": "A web-based platform designed to modernize traditional dental clinic appointments by transitioning them to an online environment, streamlining the booking process for both patients and clinic staff. I contributed to this project by implementing essential features such as admin login and search functionalities.",
       "features": [
         "Online Appointment Booking: Allows patients to conveniently schedule, reschedule, or cancel dental appointments through the system.",
@@ -36,7 +37,8 @@
         { "name": "ShadCN UI", "icon": "/icons/shadcn.svg" },
         { "name": "MongoDB", "icon": "/icons/mongodb.svg" },
         { "name": "Express", "icon": "/icons/express.svg" }
-        ],
+      ],
+      "toolNames": ["React", "Vite", "Tailwind", "ShadCN UI", "MongoDB", "Express"],
       "details": "An inventory management system developed for RDCHIME to efficiently monitor, track, and organize items. I served as the lead frontend developer, building and refining the user interface to ensure a smooth and user-friendly experience.",
       "features": [
         "Dashboard: Provides an overview of system metrics and inventory status.",
@@ -61,7 +63,8 @@
         { "name": "Flowbite React", "icon": "/icons/flowbite.svg" },
         { "name": "TMDB API", "icon": "/icons/tmdb.svg" },
         { "name": "AppWrite", "icon": "/icons/appwrite.svg" }
-        ],
+      ],
+      "toolNames": ["React", "Vite", "Tailwind", "Flowbite React", "TMDB API", "AppWrite"],
       "details": "JFlix is a sleek and responsive movie web app that helps users discover movies effortlessly. Powered by The Movie Database (TMDB), JFlix displays trending titles, upcoming films, and a full searchable catalog. Users can even watch trailers directly on the platform.",
       "features": [
         "Coming Soon: Browse upcoming movies with release dates and previews",
@@ -86,7 +89,8 @@
         { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
         { "name": "PrimeVue", "icon": "/icons/primevue.svg" },
         { "name": "Free Dictionary API", "icon": "/icons/dictionary.svg" }
-        ],
+      ],
+      "toolNames": ["Vue", "Vite", "Tailwind", "PrimeVue", "Free Dictionary API"],
       "details": "Joshionary is a sleek and functional dictionary web app that lets you explore English words with ease. Whether you're searching for definitions, learning pronunciation, or checking out the word of the day — Joshionary has you covered. Built using Free Dictionary API.",
       "features": [
         "Search Word: Instantly find definitions, parts of speech, and examples.",
@@ -109,7 +113,8 @@
         { "name": "Vite", "icon": "/icons/vite.svg" },
         { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
         { "name": "OpenWeatherMap API", "icon": "/icons/weather.svg" }
-        ],
+      ],
+      "toolNames": ["React", "Vite", "Tailwind", "OpenWeatherMap API"],
       "details": "JWX is a modern and minimal weather web app that lets users check real-time weather conditions and forecasts for any city. Designed for simplicity and clarity, JWX gives users the weather information they need at a glance. Built with OpenWeatherMap API.",
       "features": [
         "Search City: Get current weather data by entering any city name",
@@ -134,7 +139,8 @@
         { "name": "Vite", "icon": "/icons/vite.svg" },
         { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
         { "name": "Material UI", "icon": "/icons/mui.svg" }
-        ],
+      ],
+      "toolNames": ["React", "Vite", "Tailwind", "Material UI"],
       "details": "Chrono-Task is a minimalist and efficient task timer web app. It helps users stay focused and productive by letting them set custom tasks and durations, with an alarm notification when time is up.",
       "features": [
         "Write Task Name: Input and label your current task",
@@ -156,7 +162,8 @@
         { "name": "Vite", "icon": "/icons/vite.svg" },
         { "name": "Tailwind CSS", "icon": "/icons/tailwind.svg" },
         { "name": "PrimeVue", "icon": "/icons/primevue.svg" }
-        ],
+      ],
+      "toolNames": ["Vue", "Vite", "Tailwind", "PrimeVue"],
       "details": "A sleek and fun Rock-Paper-Scissors game built with Vue 3 and PrimeVue. Challenge the computer, track your score, and enjoy a smooth animated experience.",
       "features": [
         "Instant play with real-time results",
@@ -176,7 +183,8 @@
       "tools": [
         { "name": "HTML", "icon": "/icons/html.svg" },
         { "name": "CSS", "icon": "/icons/css.svg" }
-        ],
+      ],
+      "toolNames": ["HTML", "CSS"],
       "details": "Folklore Blooms is a visually rich landing page that showcases my HTML and CSS skills through thoughtful layout, responsive design, and elegant styling. Inspired by natural elements and soft aesthetic tones, this project is a front-end demonstration of how structure and style come together to create a smooth user experience.",
       "features": [
         "Clean and semantic HTML structure",
@@ -197,8 +205,9 @@
       "tools": [
         { "name": "HTML", "icon": "/icons/html.svg" },
         { "name": "CSS", "icon": "/icons/css.svg" },
-         { "name": "JavaScript", "icon": "/icons/js.svg" }
-        ],
+        { "name": "JavaScript", "icon": "/icons/js.svg" }
+      ],
+      "toolNames": ["HTML", "CSS", "JavaScript"],
       "details": "MERSUAH Calculator is a simple yet elegant web-based calculator built with pure HTML, CSS, and JavaScript—no frameworks, no libraries. It features a clean interface, smooth interactions, and a built-in Dark Mode toggle for user comfort.",
       "features": [
         "Basic arithmetic operations: addition, subtraction, multiplication, division",
@@ -220,7 +229,8 @@
         { "name": "OpenCV (cv2)", "icon": "/icons/opencv.svg" },
         { "name": "NumPy", "icon": "/icons/numpy.svg" },
         { "name": "Spyder IDE (Anaconda)", "icon": "/icons/spyder.svg" }
-        ],
+      ],
+      "toolNames": ["Python", "OpenCV", "NumPy", "Spyder IDE", "Anaconda"],
       "details": "A face recognition system built with Python that identifies known individuals from a folder of stored images and labels unknown faces. This project was developed and tested using the Spyder IDE.",
       "features": [
         "Face detection and recognition using OpenCV and face-recognition libraries",

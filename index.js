@@ -31,7 +31,7 @@ server.get('/', (req, res) => {
     endpoints: {
       all_projects: `${baseUrl}/api/projects`,
       single_project: `${baseUrl}/api/projects/1`,
-      filter_by_tech: `${baseUrl}/api/projects?tools_like=React`,
+      filter_by_tech: `${baseUrl}/api/projects?toolNames_like=React`,
       search_by_name: `${baseUrl}/api/projects?name_like=JFlix`,
       health_check: `${baseUrl}/health`
     },
@@ -45,9 +45,9 @@ server.get('/', (req, res) => {
       project_screenshots: 'All project desktop/mobile images available'
     },
     sample_queries: {
-      react_projects: `${baseUrl}/api/projects?tools_like=React`,
-      vue_projects: `${baseUrl}/api/projects?tools_like=Vue`,
-      python_projects: `${baseUrl}/api/projects?tools_like=Python`,
+      react_projects: `${baseUrl}/api/projects?toolNames_like=React`,
+      vue_projects: `${baseUrl}/api/projects?toolNames_like=Vue`,
+      python_projects: `${baseUrl}/api/projects?toolNames_like=Python`,
       with_github: `${baseUrl}/api/projects?github_ne=`,
       with_live_demo: `${baseUrl}/api/projects?live_ne=`
     },
